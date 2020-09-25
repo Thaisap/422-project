@@ -6,3 +6,12 @@ body {
 a {
   color: #00B7FF;
 }
+
+h1{
+  font-family: sans-serif;
+}
+
+p{
+  font-size: 32px;
+  color: black
+}
